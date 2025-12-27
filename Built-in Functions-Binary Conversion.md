@@ -17,6 +17,7 @@ print(binary_number)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="827" height="150" alt="image" src="https://github.com/user-attachments/assets/fb92f293-f751-4a3d-886f-7339349326a0" />
+
 
 ## Result
